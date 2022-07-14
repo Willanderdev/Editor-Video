@@ -1,0 +1,3 @@
+# Editor-de-V-deo
+codigo que criei pra aeditar alguns vídeos, trabalho com sistema de CFTV e as vezes preciso fazer ajustes nos vídeos, daí surgiu a curiosidade de criar um código pra fazer pequenos justes nos vídeos..
+usei a LIB Moviepy...
